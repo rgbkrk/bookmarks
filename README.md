@@ -2,6 +2,9 @@
 
 Because why would I store these in awkward menu bars
 
+* [RxJS Roundup](rxjs)
+
+
 ## Full Stack Redux React Webpack crazy pants tutorial
 
 You have to devote time to working through this tutorial:
