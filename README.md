@@ -2,10 +2,13 @@
 
 Because why would I store these in awkward menu bars
 
+## Collections
+
 * [RxJS Roundup](rxjs)
 
+## Highly Recommended
 
-## Full Stack Redux React Webpack crazy pants tutorial
+### Full Stack Redux React Webpack crazy pants tutorial
 
 You have to devote time to working through this tutorial:
 
