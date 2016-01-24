@@ -1,6 +1,6 @@
 # bookmarks
 
-Because why would I store these in awkward menu bars
+Because why would I store these in awkward menu bars. There may be rambling involved.
 
 ## Collections
 
