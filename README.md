@@ -6,6 +6,10 @@ Because why would I store these in awkward menu bars. There may be rambling invo
 
 * [RxJS Roundup](rxjs)
 
+## Recently Recommended
+
+* [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+
 ## Highly Recommended
 
 ### Full Stack Redux React Webpack crazy pants tutorial
