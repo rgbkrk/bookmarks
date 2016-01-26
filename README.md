@@ -6,6 +6,10 @@ Because why would I store these in awkward menu bars. There may be rambling invo
 
 * [RxJS Roundup](rxjs)
 
+## Currently Reading
+
+* [Scalable C](https://www.gitbook.com/book/hintjens/scalable-c/details)
+
 ## Recently Recommended
 
 * [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
