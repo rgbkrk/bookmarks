@@ -10,6 +10,7 @@ Because why would I store these in awkward menu bars. There may be rambling invo
 
 * [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 * [React Plugins](https://nylas.com/blog/react-plugins)
+* [C/C++ Processing from node.js](http://blog.scottfrees.com/c-processing-from-node-js)
 
 ## Highly Recommended
 
