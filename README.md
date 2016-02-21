@@ -1,6 +1,6 @@
 # bookmarks
 
-Because why would I store these in awkward menu bars. There may be rambling involved.
+Sharing curated collections of bookmarks in git form.
 
 ## Collections
 
