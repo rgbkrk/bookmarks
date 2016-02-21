@@ -4,7 +4,8 @@ Sharing curated collections of bookmarks in git form.
 
 ## Collections
 
-* [RxJS Roundup](rxjs)
+* [Reactive Extensions for JS](rxjs)
+* [Operational Transformation](ot)
 
 ## Recently Recommended
 
