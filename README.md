@@ -11,7 +11,7 @@ Sharing curated collections of bookmarks in git form.
 * [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 * [React Plugins](https://nylas.com/blog/react-plugins)
 * [C/C++ Processing from node.js](http://blog.scottfrees.com/c-processing-from-node-js)
-* [Intro to Operational Transformation](https://davidwalsh.name/collaborative-editing-javascript-intro-operational-transformation)
+* [Intro to Operational Transformation for Collaborative Documents](https://davidwalsh.name/collaborative-editing-javascript-intro-operational-transformation)
 
 ## Highly Recommended
 
